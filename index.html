@@ -66,6 +66,7 @@
         option.value = name;
         suggestionList.appendChild(option);
       });
+      document.getElementById('search-box').setAttribute('autocomplete', 'on');
     }
 
     function addItem() {
@@ -86,6 +87,8 @@
 
     function clearItems() {
       selectedItems = [];
+      document.getElementById('search-box').value = '';
+      document.getElementById('item-qty').value = 1;
       document.getElementById('materials-list').innerHTML = '';
       document.getElementById('sources-table').innerHTML = '';
     }
