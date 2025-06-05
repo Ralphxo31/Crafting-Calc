@@ -11,7 +11,8 @@
     table { border-collapse: collapse; width: 100%; margin-top: 10px; }
     th, td { border: 1px solid #ccc; padding: 8px; }
     input[type="text"] { width: 300px; padding: 5px; margin-right: 10px; }
-  </style>
+    button { padding: 6px 12px; cursor: pointer; }
+</style>
 </head>
 <body>
   <h1>Fantasy Life I Crafting Calculator</h1>
@@ -19,9 +20,12 @@
   <div id="crafting-form">
     <div class="item-row">
       <input type="text" id="search-box" list="suggestions" placeholder="Type item name...">
-      <datalist id="suggestions"></datalist>
+      <datalist id="suggestions">
+  <!-- Options will be dynamically populated -->
+</datalist>
       <input type="number" id="item-qty" value="1" min="1">
       <button onclick="addItem()">Add</button>
+      <button onclick="clearItems()" style="margin-left: 10px;">Clear</button>
       <button onclick="clearItems()">Clear</button>
     </div>
   </div>
