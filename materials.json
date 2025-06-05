@@ -1,0 +1,5589 @@
+{
+  "Alcheweed": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    }
+  ],
+  "Amethyst": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Superior Marine Ore Deposit",
+        "Amazing Marine Ore Deposit"
+      ]
+    }
+  ],
+  "Ancient Coral": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Sandshark"
+      ]
+    }
+  ],
+  "Ancient Core": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Stone Golem"
+      ]
+    }
+  ],
+  "Ancient Emerald": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Graphite Deposit",
+        "Dragon's Claw",
+        "Giant Ancient Fossil"
+      ]
+    }
+  ],
+  "Ancient Nucleus": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Stone Golem"
+      ]
+    }
+  ],
+  "Ancient Orb": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Graphite Deposit"
+      ]
+    }
+  ],
+  "Angelfish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Animal Claws": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Black Panther",
+        "Forest Panther",
+        "Grotto Wolf"
+      ]
+    }
+  ],
+  "Animal Droppings": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Hearhare",
+        "Snowflake Bunny",
+        "Killer Bunny"
+      ]
+    }
+  ],
+  "Animal Fang": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Red Wolf",
+        "Grotto Wolf",
+        "Alpha Coyote",
+        "Grass Serpent",
+        "Cave Bat"
+      ]
+    }
+  ],
+  "Animal Hide": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Cashmeer",
+        "Red Wolf",
+        "Buffalo",
+        "Tunoco Lizard",
+        "Goldmeer"
+      ]
+    }
+  ],
+  "Antenna Lantern": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Deep Sea Lordfish"
+      ]
+    }
+  ],
+  "Antidote Berries": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    }
+  ],
+  "Antipara Berries": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Cherry Tree"
+      ]
+    }
+  ],
+  "Apple Applique": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Cashmere",
+        "String",
+        "Star Apple"
+      ]
+    }
+  ],
+  "Aquamarine": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Iron Ore Deposit",
+        "Greater Iron Ore Deposit",
+        "Superior Blue Ore Deposit",
+        "Amazing Blue Ore Deposit"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Great Gemeleon",
+        "Iron Golem"
+      ]
+    }
+  ],
+  "Arch Alcheweed": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    }
+  ],
+  "Armored Onion": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Armored Onion"
+      ]
+    }
+  ],
+  "Aubergine": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Bass of Darkness": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Bass of Darkness"
+      ]
+    }
+  ],
+  "Beast Hide": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Forest Panther",
+        "Fiery Panther",
+        "Alpha Coyote",
+        "Greater Sandzard",
+        "Black Panther"
+      ]
+    }
+  ],
+  "Beef": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant",
+        "Swolean Island Tavern Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Buffalo",
+        "Wild Buffalo"
+      ]
+    }
+  ],
+  "Beelzebub Tuna": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Beelzebub Tuna"
+      ]
+    }
+  ],
+  "Big Egg": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Tavern Restaurant"
+      ]
+    }
+  ],
+  "Big Tail": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Licky Gecko",
+        "Greater Sandzard",
+        "Gemeleon"
+      ]
+    }
+  ],
+  "Bigbeak Egg": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Bigbeak"
+      ]
+    }
+  ],
+  "Black Anthurium": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Marco's Shop",
+        "Buffalo Base Tool Shop"
+      ]
+    }
+  ],
+  "Black Onyx": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Graphite Deposit"
+      ]
+    }
+  ],
+  "Black Paint": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Buffalo Base Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Black Anthurium"
+      ]
+    }
+  ],
+  "Black Pepper": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Black Sheep Fleece": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Black Wool"
+      ]
+    }
+  ],
+  "Black Wool": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Black Sheep Fleece"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "King Woolie",
+        "Black Woolie"
+      ]
+    }
+  ],
+  "Black Woolie Sticker": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Blue Paint",
+        "Desert Log",
+        "Black Sheep Fleece"
+      ]
+    }
+  ],
+  "Blackgill": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Tavern Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Blue Anthurium": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop",
+        "Tropica Isles Island Material Shop",
+        "Marco's Shop",
+        "Buffalo Base Tool Shop"
+      ]
+    }
+  ],
+  "Blue Gel": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Splash Frog"
+      ]
+    }
+  ],
+  "Blue Paint": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Buffalo Base Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Blue Anthurium"
+      ]
+    }
+  ],
+  "Blue Stone": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Iron Ore Deposit",
+        "Greater Iron Ore Deposit",
+        "Superior Blue Ore Deposit",
+        "Amazing Blue Ore Deposit"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Gemeleon"
+      ]
+    }
+  ],
+  "Bluescale Lordfish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Bluescale Lordfish"
+      ]
+    }
+  ],
+  "Brilliant Feather": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Tunoco Quetzal"
+      ]
+    }
+  ],
+  "Broccoli": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Bronze Ingot": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Eternia Village Blacksmith's Guild Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Mysteria Copper"
+      ]
+    }
+  ],
+  "Bruiser Beetle": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Bruiser Beetle"
+      ]
+    }
+  ],
+  "Bullion Beetle": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Bullion Beetle"
+      ]
+    }
+  ],
+  "Bushy Baatato": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Potato Farm"
+      ]
+    }
+  ],
+  "Butter": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Cabbage": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant",
+        "Faraway Island Restaurant",
+        "Faraway Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Cabbage Farm"
+      ]
+    }
+  ],
+  "Cactus Fish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Tavern Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Calmaryllis": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Carrot": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant",
+        "Faraway Island Restaurant",
+        "Faraway Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Carrot Farm"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Carroty",
+        "Carrotella",
+        "Shadow Carroty",
+        "Shadow Carrotella"
+      ]
+    }
+  ],
+  "Cashmere": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Goat Fleece"
+      ]
+    }
+  ],
+  "Cave Catfish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Tavern Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Big Fish Shadow"
+      ]
+    }
+  ],
+  "Champion Beetle": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Champion Beetle"
+      ]
+    }
+  ],
+  "Charoite": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Luminous Magic Ore Deposit"
+      ]
+    }
+  ],
+  "Cherry Branch": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Recluse Cherry Tree"
+      ]
+    }
+  ],
+  "Cherry Log": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Cherry Tree"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Pseudo Cherry"
+      ]
+    }
+  ],
+  "Cherry Lordfish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Cherry Lordfish"
+      ]
+    }
+  ],
+  "Cherry Lordfish Moss": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Cherry Lordfish"
+      ]
+    }
+  ],
+  "Cherry Lumber": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Cherry Log"
+      ]
+    }
+  ],
+  "Cherry Nectar": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Recluse Cherry Tree"
+      ]
+    }
+  ],
+  "Chicken": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant",
+        "Swolean Island Tavern Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Razorbeak",
+        "Crimson Razorbeak",
+        "Tunoco Quetzal",
+        "White Runner",
+        "Bigbeak"
+      ]
+    }
+  ],
+  "Chicken Eggs": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant",
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Razorbeak",
+        "Crimson Razorbeak"
+      ]
+    }
+  ],
+  "Clownfish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Coal-Black Feather": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Umbral Runner"
+      ]
+    }
+  ],
+  "Coldwater Tuna": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Coldwater Tuna"
+      ]
+    }
+  ],
+  "Combustible Powder": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Crimson Weeding",
+        "Fiery Panther",
+        "Mohawakasaurus",
+        "King Cobra",
+        "Cornella",
+        "Napdragon"
+      ]
+    }
+  ],
+  "Common Hopper": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Common Hopper"
+      ]
+    }
+  ],
+  "Corny Sticker": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Yellow Paint",
+        "Desert Log",
+        "Sweetcorn"
+      ]
+    }
+  ],
+  "Corrupt Carrot": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Shadow Carrot Farm"
+      ]
+    }
+  ],
+  "Crimson Carrot": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Carrot Farm"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Shadow Carroty"
+      ]
+    }
+  ],
+  "Crystalized Scale": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Crystalline Bass"
+      ]
+    }
+  ],
+  "Crystalline Bass": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Crystalline Bass"
+      ]
+    }
+  ],
+  "Cureweed": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    }
+  ],
+  "Curious Object": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Fluff Baller",
+        "Snow Beetle Baller",
+        "Greater Beetle Baller"
+      ]
+    }
+  ],
+  "Curry Spices": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Tavern Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Cute Ribbon": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Dandelion Cotton": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Dandelion Puff"
+      ]
+    }
+  ],
+  "Dandelion Puff": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    }
+  ],
+  "Dandy Potato": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Potato Farm"
+      ]
+    }
+  ],
+  "Dark Fire": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Shadow Tortortoise",
+        "Shadow Shark",
+        "Shadow Spooky",
+        "Shadow Wolf",
+        "Shadow Tyrant"
+      ]
+    }
+  ],
+  "Dark Gem": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Luminous Magic Ore Deposit"
+      ]
+    }
+  ],
+  "Dark Monster Core": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Shadow Tyrant",
+        "Shadow Spooky",
+        "Shadow Carroty"
+      ]
+    }
+  ],
+  "Dark Scales": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    }
+  ],
+  "Dark Stone": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Graphite Deposit"
+      ]
+    }
+  ],
+  "Darkfish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Rare Fish Shadow"
+      ]
+    }
+  ],
+  "Darktree Bark": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Luminous Darkwood Tree"
+      ]
+    }
+  ],
+  "Darktree Sap": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Luminous Darkwood Tree"
+      ]
+    }
+  ],
+  "Darkwood Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Darkwood Tree"
+      ]
+    }
+  ],
+  "Darkwood Lumber": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Darkwood Log"
+      ]
+    }
+  ],
+  "Deadly Claws": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Cave Panther"
+      ]
+    }
+  ],
+  "Deep Sea Lordfish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Deep Sea Lordfish"
+      ]
+    }
+  ],
+  "Demonic Hopper": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Demonic Hopper"
+      ]
+    }
+  ],
+  "Demonic Powder": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Wicked Spooky"
+      ]
+    }
+  ],
+  "Demonion": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Onion Farm"
+      ]
+    }
+  ],
+  "Desert Log": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop",
+        "Haniwa Hamlet Tool Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Desert Tree"
+      ]
+    }
+  ],
+  "Desert Lumber": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Desert Log"
+      ]
+    }
+  ],
+  "Devil's Fin": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Beelzebub Tuna"
+      ]
+    }
+  ],
+  "Diamond": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Earth Starcrystal"
+      ]
+    }
+  ],
+  "Dino Meat": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Mohawakasaurus",
+        "Lord of Death"
+      ]
+    }
+  ],
+  "Divine Ribbon": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Dragon Leg Bone": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Giant Ancient Fossil"
+      ]
+    }
+  ],
+  "Dragon Meat": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Tavern Restaurant"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Prairie Dragon",
+        "Napdragon"
+      ]
+    }
+  ],
+  "Dragon Skull": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Giant Ancient Fossil"
+      ]
+    }
+  ],
+  "Dragon Sticker": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Black Paint",
+        "Desert Log",
+        "Combustible Powder"
+      ]
+    }
+  ],
+  "Dragon Vertebrae": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Giant Ancient Fossil"
+      ]
+    }
+  ],
+  "Dragonfly": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Dragonfly"
+      ]
+    }
+  ],
+  "Dragontree Horn": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Dragonhorn Tree"
+      ]
+    }
+  ],
+  "Dragontree Wing": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Dragonhorn Tree"
+      ]
+    }
+  ],
+  "Duffle": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop"
+      ]
+    }
+  ],
+  "Dunefin Tuna": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Big Fish Shadow"
+      ]
+    }
+  ],
+  "Durable Shell": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Cave Star"
+      ]
+    }
+  ],
+  "Earth Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Earth Angeltree"
+      ]
+    }
+  ],
+  "Earth Mana": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Earth Starcrystal",
+        "Earth Angeltree"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Bouldergeist",
+        "Steel Tortortoise"
+      ]
+    }
+  ],
+  "Earth Shard": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Earth Starcrystal"
+      ]
+    }
+  ],
+  "Earth Wood Lumber": [
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Earth Log"
+      ]
+    }
+  ],
+  "Elder Cherry Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Great Cherry Tree"
+      ]
+    }
+  ],
+  "Elder Darkwood Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Great Darkwood Tree"
+      ]
+    }
+  ],
+  "Elder Desert Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Desert Tree",
+        "Great Desert Tree"
+      ]
+    }
+  ],
+  "Elder Earth Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Earth Angeltree"
+      ]
+    }
+  ],
+  "Elder Fire Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Fire Angeltree"
+      ]
+    }
+  ],
+  "Elder Oak Log": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Great Oak Tree"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Pseudo Oak"
+      ]
+    }
+  ],
+  "Elder Palm Log": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Great Palm Tree"
+      ]
+    }
+  ],
+  "Elder Pine Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Great Pine Tree"
+      ]
+    }
+  ],
+  "Elder Skytree Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Great Skytree"
+      ]
+    }
+  ],
+  "Elder Starry Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Great Starry Tree"
+      ]
+    }
+  ],
+  "Elder Sugar Log": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Great Sugar Tree"
+      ]
+    }
+  ],
+  "Elder Water Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Water Angeltree"
+      ]
+    }
+  ],
+  "Elder Wind Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Wind Angeltree"
+      ]
+    }
+  ],
+  "Electric Eel": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Big Fish Shadow"
+      ]
+    }
+  ],
+  "Emerald": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Amazing Gold Deposit"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Gaia Golem"
+      ]
+    }
+  ],
+  "Eruptuna": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Eruptuna"
+      ]
+    }
+  ],
+  "Eureka Essence": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Napdragon",
+        "Boor Bear Boss",
+        "Blizzbear",
+        "Sand Golem",
+        "Stone Golem",
+        "Black Panther",
+        "Lord of Curses",
+        "Carrotella",
+        "Crystal Golem",
+        "Shadow Tortortoise",
+        "Tunoco Quetzal",
+        "Great Chimera",
+        "Goldmeer"
+      ]
+    }
+  ],
+  "Evening Glory": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Evil Carp": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Evil Shard": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Heart of Darkness"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Lord of Death"
+      ]
+    }
+  ],
+  "Faintly Glowing Leaf": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Godly Cabbage"
+      ]
+    }
+  ],
+  "Fairy Applique": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Linen",
+        "String",
+        "Curious Object"
+      ]
+    }
+  ],
+  "Fallen Carrot": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Shadow Carrot Farm"
+      ]
+    }
+  ],
+  "Faraway Iron": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Iron Ore Deposit",
+        "Greater Iron Ore Deposit",
+        "Superior Blue Ore Deposit",
+        "Amazing Blue Ore Deposit"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Iron Golem"
+      ]
+    }
+  ],
+  "Faraway Rice": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Faraway Spring Water": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Restaurant",
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    }
+  ],
+  "Faraway Sweetfish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Faraway Wheat": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Fire Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Fire Angeltree"
+      ]
+    }
+  ],
+  "Fire Mana": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Fire Starcrystal",
+        "Fire Angeltree"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Mohawakasaurus"
+      ]
+    }
+  ],
+  "Fire Shard": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Fire Starcrystal"
+      ]
+    }
+  ],
+  "Fire Wood Lumber": [
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Fire Log"
+      ]
+    }
+  ],
+  "Fish Scales": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    }
+  ],
+  "Flame Ruby": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Dragon's Claw"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Fortoise"
+      ]
+    }
+  ],
+  "Flaming Mohawk": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Mohawakasaurus"
+      ]
+    }
+  ],
+  "Flare Cashmere": [
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Golden Goat Fleece"
+      ]
+    }
+  ],
+  "Flax Thread": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop",
+        "Marco's Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    }
+  ],
+  "Flaxen Hair": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Kaiser Pumpkin"
+      ]
+    }
+  ],
+  "Fluffy Ribbon": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Flying Fish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Forest Lordfish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Forest Lordfish"
+      ]
+    }
+  ],
+  "Forest Lordfish Moss": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Forest Lordfish"
+      ]
+    }
+  ],
+  "Fortune's Fluff": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Fossil Shard": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Ancient Fossil"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Lord of Curses"
+      ]
+    }
+  ],
+  "Fossilshroom": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Fossilshroom"
+      ]
+    }
+  ],
+  "Frost Crystal": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Crystal Golem"
+      ]
+    }
+  ],
+  "Gemini Cabbage": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Cabbage Farm"
+      ]
+    }
+  ],
+  "Ghastly Powder": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Bouldergeist"
+      ]
+    }
+  ],
+  "Ghost Meat": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Wicked Spooky"
+      ]
+    }
+  ],
+  "Giant Claws": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Boor Bear Boss",
+        "Blizzbear"
+      ]
+    }
+  ],
+  "Giant Fang": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "King Cobra",
+        "Boor Bear Boss",
+        "Greater Rock Serpent"
+      ]
+    }
+  ],
+  "Giant Horn": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Prairie Dragon",
+        "Napdragon"
+      ]
+    }
+  ],
+  "Giant Mandrake": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Giant Mandrake"
+      ]
+    }
+  ],
+  "Giant Scale": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Crystal Behemoth",
+        "Lord of Death"
+      ]
+    }
+  ],
+  "Giant Tail": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Great Chimera",
+        "Lord of Death"
+      ]
+    }
+  ],
+  "Giant Thorn": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Boss Bee"
+      ]
+    }
+  ],
+  "Giant's Tree Bark": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Giant's Tree"
+      ]
+    }
+  ],
+  "Giant's Tree Nuts": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Giant's Tree"
+      ]
+    }
+  ],
+  "Gigaga Truffle": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Tavern Restaurant"
+      ]
+    }
+  ],
+  "Ginger": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Glossy Feather": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "White Runner"
+      ]
+    }
+  ],
+  "Goat Fleece": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Cashmeer",
+        "Goldmeer"
+      ]
+    }
+  ],
+  "Godfish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Godfish"
+      ]
+    }
+  ],
+  "Godfish Moss": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Godfish"
+      ]
+    }
+  ],
+  "Godly Cabbage": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Godly Cabbage"
+      ]
+    }
+  ],
+  "Gold Ingot": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Marco's Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Swolean Gold"
+      ]
+    }
+  ],
+  "Gold Koi": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Big Fish Shadow"
+      ]
+    }
+  ],
+  "Golden Droppings": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Killer Bunny"
+      ]
+    }
+  ],
+  "Golden Fin": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Golden Swordfish"
+      ]
+    }
+  ],
+  "Golden Goat Fleece": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Goldmeer"
+      ]
+    }
+  ],
+  "Golden String": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Golden Swordfish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Golden Swordfish"
+      ]
+    }
+  ],
+  "Goldweed": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    }
+  ],
+  "Golem Fragment": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Golemstone"
+      ]
+    }
+  ],
+  "Golem Sticker": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Black Paint",
+        "Desert Log",
+        "Fossilshroom"
+      ]
+    }
+  ],
+  "Good Mysteria Masonry": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop"
+      ]
+    }
+  ],
+  "Gourdy Pumpkin": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Pumpkin Farm"
+      ]
+    }
+  ],
+  "Great Lucky Bream": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Great Lucky Bream"
+      ]
+    }
+  ],
+  "Great Prairie's Tear": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Prairie Dragon"
+      ]
+    }
+  ],
+  "Great Spirit Flower": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Great Spirit Radish"
+      ]
+    }
+  ],
+  "Great Spirit Radish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Great Spirit Radish"
+      ]
+    }
+  ],
+  "Green Fish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Green Gel": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Tropic Toad"
+      ]
+    }
+  ],
+  "Hagram Applique": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Black Wool",
+        "String",
+        "Forest Lordfish Moss"
+      ]
+    }
+  ],
+  "Haniwa Jewel": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Haniwa Tribe"
+      ]
+    }
+  ],
+  "Haniwa Stone": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Haniwa Stone"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Haniwa Tribe"
+      ]
+    }
+  ],
+  "Hard Claws": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "White Panther",
+        "Pyro Panther",
+        "Shadow Panther",
+        "Jackal",
+        "Fiery Panther"
+      ]
+    }
+  ],
+  "Healweed": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Crimson Weeding"
+      ]
+    }
+  ],
+  "Hermit Carrot": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Carrot Farm"
+      ]
+    }
+  ],
+  "Hero Applique": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Cashmere",
+        "String",
+        "Platinum Ingot"
+      ]
+    }
+  ],
+  "High-Flying Fish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "High-Flying Fish"
+      ]
+    }
+  ],
+  "Honey Applique": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Linen",
+        "String",
+        "Remote Island Honey"
+      ]
+    }
+  ],
+  "Hot Spring Bream": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Big Fish Shadow"
+      ]
+    }
+  ],
+  "Icy Claws": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Blizzbear"
+      ]
+    }
+  ],
+  "Icy Scales": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Coldwater Tuna"
+      ]
+    }
+  ],
+  "Impeccable Stache": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Spooky Spud"
+      ]
+    }
+  ],
+  "Invincible Onionskin": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Armored Onion"
+      ]
+    }
+  ],
+  "Iron Ingot": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Faraway Iron"
+      ]
+    }
+  ],
+  "Kaiser Pumpkin": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Kaiser Pumpkin"
+      ]
+    }
+  ],
+  "King's Wool": [
+    {
+      "method": "Crafted From",
+      "locations": [
+        "King's Wool"
+      ]
+    }
+  ],
+  "Kissyfish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Lavashrimp": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Leather String": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop",
+        "Faraway Island Material Shop",
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Pandora's Box"
+      ]
+    }
+  ],
+  "Legendary Divine Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Legendary God Tree"
+      ]
+    }
+  ],
+  "Legendary Don Horn": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Legendary Don Woolie"
+      ]
+    }
+  ],
+  "Legendary Don Meat": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Legendary Don Woolie"
+      ]
+    }
+  ],
+  "Legendary King Spud": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Legendary King Spud"
+      ]
+    }
+  ],
+  "Legendary Rocket Fish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Legendary Rocket Fish"
+      ]
+    }
+  ],
+  "Legendary Shiny Diamond": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Legendary Shiny Geode"
+      ]
+    }
+  ],
+  "Lifeforce Cluster": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Bouldergeist"
+      ]
+    }
+  ],
+  "Lifeweed": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Killer Weedling",
+        "Weedling"
+      ]
+    }
+  ],
+  "Light Mana": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Godly Cabbage"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Goldmeer",
+        "Bigbeak",
+        "Tunoco Quetzal",
+        "Napdragon"
+      ]
+    }
+  ],
+  "Linen": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Flax Thread"
+      ]
+    }
+  ],
+  "Little Shell": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Stelleroid"
+      ]
+    }
+  ],
+  "Little Tail": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Sandzard",
+        "Tunoco Lizard"
+      ]
+    }
+  ],
+  "Lucky Pearl": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Great Lucky Bream"
+      ]
+    }
+  ],
+  "Lulab Trout": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Magic Ingot": [
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Magic Ore"
+      ]
+    }
+  ],
+  "Magic Ore": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Magic Ore Deposit",
+        "Great Magic Ore Deposit",
+        "Luminous Magic Ore Deposit"
+      ]
+    }
+  ],
+  "Magic Powder": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Greater Sea Beetle Baller",
+        "Mini Spooky",
+        "Shadow Spooky",
+        "Big Spooky",
+        "Royal Spooky",
+        "Bouldergeist"
+      ]
+    }
+  ],
+  "Magma Dragonstone": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Dragon's Claw"
+      ]
+    }
+  ],
+  "Magma Fin": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Eruptuna"
+      ]
+    }
+  ],
+  "Magma Ingot": [
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Magma Ore"
+      ]
+    }
+  ],
+  "Magma Ore": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Superior Red Ore Deposit",
+        "Amazing Red Ore Deposit"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Steel Tortortoise",
+        "Fortoise"
+      ]
+    }
+  ],
+  "Marine Ingot": [
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Marine Ore"
+      ]
+    }
+  ],
+  "Marine Ore": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Superior Marine Ore Deposit",
+        "Amazing Marine Ore Deposit"
+      ]
+    }
+  ],
+  "Marine Silk": [
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Marine Thread"
+      ]
+    }
+  ],
+  "Marine Thread": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Cave Star"
+      ]
+    }
+  ],
+  "Metal Buttons": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop"
+      ]
+    }
+  ],
+  "Mimic Sticker": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "White Paint",
+        "Desert Log",
+        "Sack of Gold"
+      ]
+    }
+  ],
+  "Minty Ore": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Blacksmith's Guild Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Copper Deposit",
+        "Great Copper Deposit",
+        "Superior Copper Deposit",
+        "Amazing Copper Deposit"
+      ]
+    }
+  ],
+  "Monster Crystal": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Crystal Behemoth"
+      ]
+    }
+  ],
+  "Monster Hide": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Jackal",
+        "Flame Serpent",
+        "Cave Panther",
+        "Mohawakasaurus",
+        "Shadow Wolf",
+        "Flame Serpent",
+        "Boor Bear Boss"
+      ]
+    }
+  ],
+  "Monster Meat": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Great Chimera"
+      ]
+    }
+  ],
+  "Monster Tail": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Shadow Tyrant",
+        "Mohawakasaurus"
+      ]
+    }
+  ],
+  "Moon Cluster": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Gaia Golem"
+      ]
+    }
+  ],
+  "Mungus Radish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Radish Farm"
+      ]
+    }
+  ],
+  "Mushroom": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop"
+      ]
+    }
+  ],
+  "Mustard": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Tavern Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Mutton": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Restaurant",
+        "Swolean Island Tavern Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "White Woolie",
+        "Rowdy Woolie",
+        "Black Woolie"
+      ]
+    }
+  ],
+  "Mysteria Carp": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Mysteria Copper": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Eternia Village Blacksmith's Guild Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Copper Deposit",
+        "Great Copper Deposit",
+        "Superior Copper Deposit",
+        "Amazing Copper Deposit"
+      ]
+    }
+  ],
+  "Mysteria Crucian": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Mysteria Koi": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Big Fish Shadow"
+      ]
+    }
+  ],
+  "Mysteria Masonry": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Blacksmith's Guild Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Mysteria Mineral Water": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    }
+  ],
+  "Mysteria Morpho": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Mysteria Morpho"
+      ]
+    }
+  ],
+  "Mysterious Object": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Frosty Radishy",
+        "Frosty Radishella",
+        "Snow Beetle Baller",
+        "Greater Sea Beetle Baller",
+        "Star Beetle Baller",
+        "Ancient Beetle Baller"
+      ]
+    }
+  ],
+  "Mythical Meat": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Great Chimera"
+      ]
+    }
+  ],
+  "Napdragon's Scale": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Napdragon"
+      ]
+    }
+  ],
+  "Napdragon's Teardrop": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Napdragon"
+      ]
+    }
+  ],
+  "Nearly Invisible Teardrop": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Giant Mandrake"
+      ]
+    }
+  ],
+  "Nimbus Scales": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "High-Flying Fish"
+      ]
+    }
+  ],
+  "Noble Goat Fleece": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Goldmeer"
+      ]
+    }
+  ],
+  "Oak Log": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Oak Tree"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Pseudo Oak"
+      ]
+    }
+  ],
+  "Oak Lumber": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Oak Log"
+      ]
+    }
+  ],
+  "Oak Tree Sticker": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "White Paint",
+        "Desert Log",
+        "Oak Log"
+      ]
+    }
+  ],
+  "Onion": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant",
+        "Faraway Island Restaurant",
+        "Faraway Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Onion Farm"
+      ]
+    }
+  ],
+  "Pale Onion": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Onion Farm"
+      ]
+    }
+  ],
+  "Palm Log": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Palm Tree"
+      ]
+    }
+  ],
+  "Palm Lumber": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Palm Log"
+      ]
+    }
+  ],
+  "Palm Nuts": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Palm Tree"
+      ]
+    }
+  ],
+  "Paralysis Powder": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Cave Bat",
+        "Vampire Bat",
+        "Weedling",
+        "Big Spooky",
+        "Peach Bee",
+        "King Weedling",
+        "Killer Weedling",
+        "Bouldergeist"
+      ]
+    }
+  ],
+  "Parasol Fish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Penny Beetle": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Penny Beetle"
+      ]
+    }
+  ],
+  "Pine Log": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Pine Tree"
+      ]
+    }
+  ],
+  "Pine Lumber": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Pine Log"
+      ]
+    }
+  ],
+  "Pine Nuts": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Pine Tree"
+      ]
+    }
+  ],
+  "Pink Silk": [
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Pink Silk Thread"
+      ]
+    }
+  ],
+  "Pink Silk Thread": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Sand Spider",
+        "Greater Sand Spider",
+        "Gloom Spider"
+      ]
+    }
+  ],
+  "Pirate Applique": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Black Wool",
+        "String",
+        "Emerald"
+      ]
+    }
+  ],
+  "Pirate Captain Buttons": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Plains Lordfish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Plains Lordfish"
+      ]
+    }
+  ],
+  "Plains Lordfish Moss": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    }
+  ],
+  "Platinum Ingot": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Marco's Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Platinum Ore"
+      ]
+    }
+  ],
+  "Platinum Ore": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Marco's Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    }
+  ],
+  "Poison Powder": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Applejack Gorilla",
+        "Pseudo Cherry",
+        "Gloom Spider",
+        "Licky Gecko",
+        "Rock Serpent",
+        "Greater Rock Serpent",
+        "Worker Bee",
+        "Killer Weedling",
+        "Bloom Serpent",
+        "King Cobra",
+        "Greater Sand Spider",
+        "Boss Bee"
+      ]
+    }
+  ],
+  "Poseidon Swordfish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Poseidon Swordfish"
+      ]
+    }
+  ],
+  "Poseidon's Fin": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Poseidon Swordfish"
+      ]
+    }
+  ],
+  "Potato": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant",
+        "Faraway Island Restaurant",
+        "Faraway Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Potato Farm"
+      ]
+    }
+  ],
+  "Pretty Coral": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Sandshark",
+        "Bitey Shark"
+      ]
+    }
+  ],
+  "Princess Applique": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Linen",
+        "String",
+        "Topaz"
+      ]
+    }
+  ],
+  "Pufferfish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Pumpkin": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant",
+        "Faraway Island Restaurant",
+        "Faraway Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Pumpkin Farm"
+      ]
+    }
+  ],
+  "Puriffodil": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Purple Cabbage": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Cabbage Farm"
+      ]
+    }
+  ],
+  "Purple Stone": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Marco's Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Gemeleon"
+      ]
+    }
+  ],
+  "Python Scales": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "King Cobra"
+      ]
+    }
+  ],
+  "Quality Minty Ore": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop",
+        "Marco's Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Silver Ore Deposit",
+        "Great Silver Ore Deposit",
+        "Superior Marine Ore Deposit",
+        "Amazing Marine Ore Deposit"
+      ]
+    }
+  ],
+  "Quartzfish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Queen Eggs": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Tavern Restaurant"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Crimson Razorbeak",
+        "Bigbeak"
+      ]
+    }
+  ],
+  "Quetzal Egg": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Tunoco Quetzal"
+      ]
+    }
+  ],
+  "Quetzal Treasure": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Tunoco Quetzal"
+      ]
+    }
+  ],
+  "Radish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant",
+        "Faraway Island Restaurant",
+        "Faraway Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Radish Farm"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Radishy",
+        "Frosty Radishy",
+        "Frosty Radishella"
+      ]
+    }
+  ],
+  "Radishy Leaf": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Radishella",
+        "Frosty Radishy",
+        "Frosty Radishella",
+        "Radishy"
+      ]
+    }
+  ],
+  "Raging Radish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Radish Farm"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Radishy",
+        "Radishella"
+      ]
+    }
+  ],
+  "Rainbow Feather": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Bigbeak"
+      ]
+    }
+  ],
+  "Rainbow Fin": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Rainbow Flying Fish"
+      ]
+    }
+  ],
+  "Rainbow Flying Fish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Rainbow Flying Fish"
+      ]
+    }
+  ],
+  "Rainbow Paint": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Buffalo Base Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Blue Anthurium",
+        "Red Anthurium",
+        "Yellow Anthurium",
+        "White Anthurium",
+        "Black Anthurium"
+      ]
+    }
+  ],
+  "Red Anthurium": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Tropica Isles Island Material Shop",
+        "Marco's Shop",
+        "Buffalo Base Tool Shop"
+      ]
+    }
+  ],
+  "Red Gel": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Splash Frog"
+      ]
+    }
+  ],
+  "Red Paint": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Buffalo Base Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Red Anthurium"
+      ]
+    }
+  ],
+  "Red Peppercorn": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Red Serpent Scales": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Rock Serpent",
+        "Greater Rock Serpent",
+        "Flame Serpent"
+      ]
+    }
+  ],
+  "Redgill": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Redux Stone": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Rejuvenating Berries": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Palm Tree"
+      ]
+    }
+  ],
+  "Rhino Beetle": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Rhino Beetle"
+      ]
+    }
+  ],
+  "Royal Eggs": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Crimson Razorbeak",
+        "White Runner"
+      ]
+    }
+  ],
+  "Royal Hopper": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Royal Hopper"
+      ]
+    }
+  ],
+  "Ruby": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Superior Red Ore Deposit"
+      ]
+    }
+  ],
+  "Rushdelion": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Sack of Copper": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Mimic"
+      ]
+    }
+  ],
+  "Sack of Gold": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Mimic"
+      ]
+    }
+  ],
+  "Sack of Secrets": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Pandora's Box"
+      ]
+    }
+  ],
+  "Sack of Silver": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Mimic",
+        "Pandora's Box"
+      ]
+    }
+  ],
+  "Sack of Treasure": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Pandora's Box"
+      ]
+    }
+  ],
+  "Salt": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Sand Fish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Sandstone": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Head Haniwa",
+        "Sand Golem",
+        "Haniwa Tribe"
+      ]
+    }
+  ],
+  "Sapphire": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Platinum Deposit",
+        "Great Platinum Deposit"
+      ]
+    }
+  ],
+  "Sardine": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Seashell Buttons": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Shadow Carrot": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Shadow Carrot Farm"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Shadow Carrotella"
+      ]
+    }
+  ],
+  "Shadow Mana": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Lord of Death",
+        "Shadow Tyrant",
+        "Wicked Spooky",
+        "Steel Tortortoise",
+        "Crystal Golem"
+      ]
+    }
+  ],
+  "Shadow-Soaked Hide": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Shadow Wolf",
+        "Shadow Shark"
+      ]
+    }
+  ],
+  "Sharp Claws": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop"
+      ]
+    }
+  ],
+  "Sheep Fleece": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Wool"
+      ]
+    }
+  ],
+  "Sheep King's Fleece": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "King Woolie"
+      ]
+    }
+  ],
+  "Shield Applique": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Black Wool",
+        "String",
+        "Turtle Shell"
+      ]
+    }
+  ],
+  "Silk": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Silk Thread"
+      ]
+    }
+  ],
+  "Silk Thread": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Sand Spider",
+        "Greater Sand Spider",
+        "Hill Spider"
+      ]
+    }
+  ],
+  "Silver Ingot": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Marco's Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Tropica Silver"
+      ]
+    }
+  ],
+  "Skelegon Applique": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Black Wool",
+        "String",
+        "Giant Horn"
+      ]
+    }
+  ],
+  "Skeletal Horn": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Lord of Curses"
+      ]
+    }
+  ],
+  "Skeleton Fish": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Big Fish Shadow"
+      ]
+    }
+  ],
+  "Skytree Log": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Skytree"
+      ]
+    }
+  ],
+  "Skytree Lumber": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Skytree Log"
+      ]
+    }
+  ],
+  "Smelt": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Smiley Pumpkin": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Pumpkin Farm"
+      ]
+    }
+  ],
+  "Smoldering Claws": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Fiery Panther"
+      ]
+    }
+  ],
+  "Smoldering Fang": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Pyro Panther"
+      ]
+    }
+  ],
+  "Smoldering Hide": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Pyro Panther",
+        "Fiery Panther"
+      ]
+    }
+  ],
+  "Snake Scales": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Grass Serpent",
+        "Giant Grass Serpent",
+        "Bloom Serpent"
+      ]
+    }
+  ],
+  "Sneakfish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Sneaky Tuna": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Big Fish Shadow"
+      ]
+    }
+  ],
+  "Soulweed": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "King Weedling",
+        "Killer Weedling"
+      ]
+    }
+  ],
+  "Spider Sticker": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Yellow Paint",
+        "Desert Log",
+        "Silk Thread"
+      ]
+    }
+  ],
+  "Spiritual Powder": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Big Spooky",
+        "Bouldergeist"
+      ]
+    }
+  ],
+  "Spooky Spud": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Spooky Spud"
+      ]
+    }
+  ],
+  "Star Cluster": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Meteroid",
+        "Cave Star"
+      ]
+    }
+  ],
+  "Stardust Linen": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Starry Thread"
+      ]
+    }
+  ],
+  "Starry Log": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Starry Tree"
+      ]
+    }
+  ],
+  "Starry Lumber": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Starry Log"
+      ]
+    }
+  ],
+  "Starry Thread": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Meteroid"
+      ]
+    }
+  ],
+  "Steel Shell": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Steel Tortortoise"
+      ]
+    }
+  ],
+  "Straw Thread": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Cornella",
+        "Corny"
+      ]
+    }
+  ],
+  "String": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Cornella"
+      ]
+    }
+  ],
+  "Strong Fang": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Cave Panther",
+        "Apegore",
+        "Shadow Shark",
+        "Bitey Shark"
+      ]
+    }
+  ],
+  "Stunning Coral": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Tropica Isles Island Material Shop",
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Bitey Shark",
+        "Sandshark",
+        "Stelleroid",
+        "Stelleroid"
+      ]
+    }
+  ],
+  "Sturdy Fang": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Shadow Wolf",
+        "Vampire Bat",
+        "Apegore"
+      ]
+    }
+  ],
+  "Subterranean Scales": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Bluescale Lordfish"
+      ]
+    }
+  ],
+  "Sugar": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Sugar Log": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Sugar Tree"
+      ]
+    }
+  ],
+  "Sugar Lumber": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Sugar Log"
+      ]
+    }
+  ],
+  "Sugar Nuts": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Sugar Tree"
+      ]
+    }
+  ],
+  "Sultan Heart": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Heart of Darkness"
+      ]
+    }
+  ],
+  "Sultan Stone": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Heart of Darkness"
+      ]
+    }
+  ],
+  "Sun Cluster": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Sand Golem",
+        "Stone Golem"
+      ]
+    }
+  ],
+  "Sunny Cotton": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Sunny Puff"
+      ]
+    }
+  ],
+  "Sunny Puff": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Suspicious Object": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Proto Beetle Baller",
+        "Star Beetle Baller"
+      ]
+    }
+  ],
+  "Sweetcorn": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Corny",
+        "Cornella"
+      ]
+    }
+  ],
+  "Swolean Gold": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Marco's Shop",
+        "Haniwa Hamlet Tool Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Gold Deposit",
+        "Great Gold Deposit",
+        "Superior Gold Deposit",
+        "Amazing Gold Deposit"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Gaia Golem"
+      ]
+    }
+  ],
+  "Swordfish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Swordfish"
+      ]
+    }
+  ],
+  "Swordfish Fin": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop"
+      ]
+    }
+  ],
+  "Thick Fang": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Shadow Panther",
+        "Feral Bat",
+        "White Panther",
+        "Bloom Serpent",
+        "Bitey Shark",
+        "Black Panther",
+        "Rock Serpent"
+      ]
+    }
+  ],
+  "Thick Shell": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Fortoise",
+        "Shadow Tortortoise"
+      ]
+    }
+  ],
+  "Tomato": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Top-Class Mushroom": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Mushroom"
+      ]
+    }
+  ],
+  "Topaz": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Copper Deposit",
+        "Great Copper Deposit",
+        "Superior Copper Deposit",
+        "Amazing Copper Deposit"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Sand Golem"
+      ]
+    }
+  ],
+  "Tortortoise Sticker": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Blue Paint",
+        "Desert Log",
+        "Turtle Shell"
+      ]
+    }
+  ],
+  "Trial Cavedew": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Swolean Island Material Shop",
+        "Swolean Island Tavern Restaurant",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    }
+  ],
+  "Trip Applique": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Cashmere",
+        "String",
+        "Glossy Feather"
+      ]
+    }
+  ],
+  "Tropica Bream": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Tropica Silver": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop",
+        "Marco's Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Silver Ore Deposit",
+        "Great Silver Ore Deposit"
+      ]
+    }
+  ],
+  "Tropical Deep Sea Water": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Tropica Isles Restaurant",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    }
+  ],
+  "Truffle": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Lulab Forest Material Shop"
+      ]
+    }
+  ],
+  "Tuna": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Big Fish Shadow"
+      ]
+    }
+  ],
+  "Tunoco Fish": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Restaurant",
+        "Capital of Mysteria Restaurant"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Small Fish Shadow"
+      ]
+    }
+  ],
+  "Tunoco Sticker": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Red Paint",
+        "Desert Log",
+        "Marine Thread"
+      ]
+    }
+  ],
+  "Turtle Shell": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Tortortoise"
+      ]
+    }
+  ],
+  "Ultima Alcheweed": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Weed"
+      ]
+    }
+  ],
+  "Valuable Shell": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Island Material Shop",
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Cave Star"
+      ]
+    }
+  ],
+  "Vinegar": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Restaurant",
+        "Marco's Shop",
+        "Tortortoise Town Tool Shop"
+      ]
+    }
+  ],
+  "Vitabloom": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Vitalweed": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Simian Settlement Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Crimson Weeding"
+      ]
+    }
+  ],
+  "Wakeup Berries": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop",
+        "Panther Preserve Tool Shop"
+      ]
+    },
+    {
+      "method": "Gather From",
+      "locations": [
+        "Pine Tree"
+      ]
+    }
+  ],
+  "Water Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Water Angeltree"
+      ]
+    }
+  ],
+  "Water Mana": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Water Starcrystal",
+        "Water Angeltree"
+      ]
+    }
+  ],
+  "Water Shard": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Water Starcrystal"
+      ]
+    }
+  ],
+  "Water Wood Lumber": [
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Water Log"
+      ]
+    }
+  ],
+  "Weird Object": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Greater Beetle Baller",
+        "Ancient Beetle Baller"
+      ]
+    }
+  ],
+  "White Anthurium": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Marco's Shop",
+        "Buffalo Base Tool Shop"
+      ]
+    }
+  ],
+  "White Butterfly": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "White Butterfly"
+      ]
+    }
+  ],
+  "White Paint": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Buffalo Base Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "White Anthurium"
+      ]
+    }
+  ],
+  "White Woolie Sticker": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Marco's Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Red Paint",
+        "Desert Log",
+        "Sheep Fleece"
+      ]
+    }
+  ],
+  "Wicked Mandrake": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Wicked Mandrake"
+      ]
+    }
+  ],
+  "Wild Antler": [
+    {
+      "method": "Dropped From",
+      "locations": [
+        "King Woolie"
+      ]
+    }
+  ],
+  "Wild Beast Meat": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Buffalo Base Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Taurus"
+      ]
+    }
+  ],
+  "Wild Bull Horn": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Buffalo Base Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Taurus",
+        "Wild Buffalo"
+      ]
+    }
+  ],
+  "Wind Log": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Wind Angeltree"
+      ]
+    }
+  ],
+  "Wind Mana": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Wind Starcrystal",
+        "Wind Angeltree"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Great Chimera"
+      ]
+    }
+  ],
+  "Wind Shard": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Wind Starcrystal"
+      ]
+    }
+  ],
+  "Wind Wood Lumber": [
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Wind Log"
+      ]
+    }
+  ],
+  "Windfall Beetle": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Windfall Beetle"
+      ]
+    }
+  ],
+  "Wonderful Ribbon": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Wooden Buttons": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop"
+      ]
+    }
+  ],
+  "Wool": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Sheep Fleece"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Rowdy Woolie",
+        "King Woolie",
+        "Black Woolie",
+        "White Woolie"
+      ]
+    }
+  ],
+  "Woven Straw Fabric": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village General Goods Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Haniwa Hamlet Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Straw Thread"
+      ]
+    }
+  ],
+  "Yellow Anthurium": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Faraway Island Material Shop",
+        "Tropica Isles Island Material Shop",
+        "Marco's Shop",
+        "Buffalo Base Tool Shop"
+      ]
+    }
+  ],
+  "Yellow Butterfly": [
+    {
+      "method": "Gather From",
+      "locations": [
+        "Yellow Butterfly"
+      ]
+    }
+  ],
+  "Yellow Gel": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Capital of Mysteria Material Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Tropic Toad"
+      ]
+    }
+  ],
+  "Yellow Paint": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Tropica Isles Piccas Resort Material Shop",
+        "Buffalo Base Tool Shop"
+      ]
+    },
+    {
+      "method": "Crafted From",
+      "locations": [
+        "Yellow Anthurium"
+      ]
+    }
+  ],
+  "Yellow Stone": [
+    {
+      "method": "Purchase From",
+      "locations": [
+        "Eternia Village Blacksmith's Guild Material Shop",
+        "Capital of Mysteria Material Shop",
+        "Marco's Shop",
+        "Beetle Borough Tool Shop"
+      ]
+    },
+    {
+      "method": "Dropped From",
+      "locations": [
+        "Gemeleon"
+      ]
+    }
+  ],
+  "Walkthrough": [
+    {
+      "method": "<a class=\"a-link\" href=\"/games/FANTASY-LIFE-i/archives/521484\"><img src=\"https://img.game8.co/4170365/b10d2d5e62d4e259e060bcd34b94f53e.png/show\" class=\"a-img lazy lazy-non-square lazy-loaded\" alt=\"FANTASY LIFE i - Lives\" data-src=\"https://img.game8.co/4170365/b10d2d5e62d4e259e060bcd34b94f53e.png/show\" width=\"728\" style=\"height: 0; padding-bottom: calc(px*182/728); padding-bottom: calc(min(100%,728px)*182/728);\" data-loaded=\"true\"> Lives</a>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "Tips and Tricks": [
+    {
+      "method": "<a class=\"a-link\" href=\"/games/FANTASY-LIFE-i/archives/522521\"><img src=\"https://img.game8.co/4173170/1c0cae77d74410447859a86040646f76.png/show\" class=\"a-img lazy lazy-non-square lazy-loaded\" alt=\"FANTASY LIFE i - Quests\" data-src=\"https://img.game8.co/4173170/1c0cae77d74410447859a86040646f76.png/show\" width=\"728\" style=\"height: 0; padding-bottom: calc(px*182/728); padding-bottom: calc(min(100%,728px)*182/728);\" data-loaded=\"true\">Quests</a>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "Strangelings": [
+    {
+      "method": "<a class=\"a-link\" href=\"/games/FANTASY-LIFE-i/archives/522683\"><img src=\"https://img.game8.co/4175095/fb9c9b9baf6725743851d6e12eadd732.png/show\" class=\"a-img lazy lazy-non-square lazy-loaded\" alt=\"FANTASY LIFE i - Buddies\" data-src=\"https://img.game8.co/4175095/fb9c9b9baf6725743851d6e12eadd732.png/show\" width=\"728\" style=\"height: 0; padding-bottom: calc(px*182/728); padding-bottom: calc(min(100%,728px)*182/728);\" data-loaded=\"true\">Buddies</a>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "Interactive Map": [
+    {
+      "method": "<a class=\"a-link\" href=\"/games/FANTASY-LIFE-i/archives/522712\"><img src=\"https://img.game8.co/4175021/9bcc086935d2112ab08d66f91b87bb22.png/show\" class=\"a-img lazy lazy-non-square lazy-loaded\" alt=\"FANTASY LIFE i - Shrines\" data-src=\"https://img.game8.co/4175021/9bcc086935d2112ab08d66f91b87bb22.png/show\" width=\"728\" style=\"height: 0; padding-bottom: calc(728px*182/728); padding-bottom: calc(min(100%,728px)*182/728);\" data-loaded=\"true\">Shrines</a>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "Life Challenges": [
+    {
+      "method": "<a class=\"a-link\" href=\"/games/FANTASY-LIFE-i/archives/521559\"><img src=\"https://img.game8.co/4169490/4c6e91f27385942008afb8df4c7a9c60.png/show\" class=\"a-img lazy lazy-non-square lazy-loaded\" alt=\"FANTASY LIFE i - Characters\" data-src=\"https://img.game8.co/4169490/4c6e91f27385942008afb8df4c7a9c60.png/show\" width=\"728\" style=\"height: 0; padding-bottom: calc(px*182/728); padding-bottom: calc(min(100%,728px)*182/728);\" data-loaded=\"true\"> Characters</a>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "Weapons": [
+    {
+      "method": "<a class=\"a-link\" href=\"/games/FANTASY-LIFE-i/archives/523283\"><img src=\"https://img.game8.co/4178879/3fb74d20b32937c6bb761c38a3db6757.png/show\" class=\"a-img lazy lazy-non-square lazy-loaded\" alt=\"FANTASY LIFE i - Life Tools\" data-src=\"https://img.game8.co/4178879/3fb74d20b32937c6bb761c38a3db6757.png/show\" width=\"728\" style=\"height: 0; padding-bottom: calc(px*182/728); padding-bottom: calc(min(100%,728px)*182/728);\" data-loaded=\"true\">Life Tools</a>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "Armor": [
+    {
+      "method": "<b class=\"a-bold\"><img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"a-img lazy lazy-non-square\" alt=\"FANTASY LIFE i - Materials\" data-src=\"https://img.game8.co/4178929/0ce4e0f5d2297dc8f5a097c17540a12f.png/show\" width=\"728\" style=\"height: 0; padding-bottom: calc(px*182/728); padding-bottom: calc(min(100%,728px)*182/728);\">Materials</b>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "Bosses": [
+    {
+      "method": "<a class=\"a-link\" href=\"/games/FANTASY-LIFE-i/archives/523132\"><img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"a-img lazy lazy-non-square\" alt=\"FANTASY LIFE i - Monsters\" data-src=\"https://img.game8.co/4178313/6e113b456e5ed1dee06f2bc03a2c69a4.png/show\" width=\"728\" style=\"height: 0; padding-bottom: calc(px*182/728); padding-bottom: calc(min(100%,728px)*182/728);\">Monsters</a>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "Message Boards": [
+    {
+      "method": "<a class=\"a-link\" href=\"/games/FANTASY-LIFE-i/archives/521481\"><img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"a-img lazy lazy-non-square\" alt=\"FANTASY LIFE i - News\" data-src=\"https://img.game8.co/4170030/c7f6e938619bb6bab9149007389d35bf.png/show\" width=\"728\" style=\"height: 0; padding-bottom: calc(px*182/728); padding-bottom: calc(min(100%,728px)*182/728);\">News and Updates</a>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "Gift Codes and Passwords": [
+    {
+      "method": "<a class=\"a-link\" href=\"/games/FANTASY-LIFE-i/archives/522217\"><img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"a-img lazy lazy-non-square\" alt=\"FANTASY LIFE i - Best Life to Start With Banner\" data-src=\"https://img.game8.co/4171867/91d7a2996494fb3ea6e7a8623e587270.png/show\" width=\"720\" style=\"height: 0; padding-bottom: calc(px*405/720); padding-bottom: calc(min(100%,720px)*405/720);\">Best Life to Start With</a>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "All Tower Locations": [
+    {
+      "method": "<a class=\"a-link\" href=\"/games/FANTASY-LIFE-i/archives/522618\"><img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"a-img lazy lazy-non-square\" alt=\"FANTASY LIFE i - All Leafe Locations\" data-src=\"https://img.game8.co/4175084/a650116596c5fa7ca0c358e983a860ce.png/show\" width=\"720\" style=\"height: 0; padding-bottom: calc(px*405/720); padding-bottom: calc(min(100%,720px)*405/720);\">All Leafe Locations</a>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "All Legendary Recipe Locations": [
+    {
+      "method": "<a class=\"a-link\" href=\"/games/FANTASY-LIFE-i/archives/522599\"><img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"a-img lazy lazy-non-square\" alt=\"Fantasy Life i Best Life Tier List\" data-src=\"https://img.game8.co/4173664/8736c0fbfc7dfeffab8a63ad56822948.png/show\" width=\"720\" style=\"height: 0; padding-bottom: calc(720px*405/720); padding-bottom: calc(min(100%,720px)*405/720);\">Best Lives Tier List</a>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "List of All Mounts": [
+    {
+      "method": "<a class=\"a-link\" href=\"/games/FANTASY-LIFE-i/archives/521612\"><img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"a-img lazy lazy-non-square\" alt=\"FANTASY LIFE i - Trophy Guide and Achievements List How to Get Platinum\" data-src=\"https://img.game8.co/4173172/b328d44b1dfdb444f82f52fda9ceaf0a.png/show\" width=\"720\" style=\"height: 0; padding-bottom: calc(px*405/720); padding-bottom: calc(min(100%,720px)*405/720);\">Trophy Guide</a>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "Daily Activities Guide": [
+    {
+      "method": "<a class=\"a-link\" href=\"/games/FANTASY-LIFE-i/archives/523520\"><img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"a-img lazy lazy-non-square\" alt=\"FANTASY LIFE i The Girl Who Steals Time - Best Buddies Tier List Top Banner\" data-src=\"https://img.game8.co/4180102/61818c5545efa2d61c08d7fec5a3e239.png/show\" width=\"720\" style=\"height: 0; padding-bottom: calc(px*405/720); padding-bottom: calc(min(100%,720px)*405/720);\">Best Buddies Tier List</a>",
+      "locations": [
+        "nan"
+      ]
+    }
+  ],
+  "Beach Watermelon": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Castele Apple": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Cave Strawberries": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Cherry": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Cherry Honey": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Coconut": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Dark Honey": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Dubious Object": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Eternia Fern": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Eternia Gem": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Eternian Fleece": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Eternian Flying Fish": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Eternian Log": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Extra Creamy Milk": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Featherweight Ingot": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Fluffy Fabric": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Glittering Coral": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Golden Apple": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Island Banana": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Island Pear": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Milk": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Mystfruit": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Prairie Grapes": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Prairie Honey": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Remote Island Honey": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Soft Wool": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Star Apple": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Tip-Top Tomato": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Tropica Deep Sea Water": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Uber-Rich Milk": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ],
+  "Wild Kiwi": [
+    {
+      "method": "Unknown",
+      "locations": []
+    }
+  ]
+}

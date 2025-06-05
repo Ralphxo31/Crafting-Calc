@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crafting Calculator</title>
+  <style>
+    body { font-family: sans-serif; max-width: 900px; margin: auto; padding: 20px; }
+    .item-row { margin-bottom: 10px; position: relative; }
+    .results, .source-info { margin-top: 20px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+    th, td { border: 1px solid #ccc; padding: 8px; }
+    input[type="text"] { width: 300px; padding: 5px; margin-right: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Fantasy Life I Crafting Calculator</h1>
+
+  <div id="crafting-form">
+    <div class="item-row">
+      <input type="text" id="search-box" placeholder="Type item name...">
+      <input type="number" id="item-qty" value="1" min="1">
+      <button onclick="addItem()">Add</button>
+    </div>
+  </div>
+
+  <div class="results">
+    <h2>Required Base Materials</h2>
+    <ul id="materials-list"></ul>
+  </div>
+
+  <div class="source-info">
+    <h2>Material Sources</h2>
+    <div id="sources-table"></div>
+  </div>
+
+  <script>
+    let recipes = {};
+    let recipesLower = {};
+    let materials = {};
+    let materialsLower = {};
+    let selectedItems = [];
+    let allItemNames = [];
+
+    async function loadData() {
+      console.log("Loading data...");
+      const recipesResp = await fetch('recipes.json');
+      const materialsResp = await fetch('materials.json');
+      recipes = await recipesResp.json();
+      materials = await materialsResp.json();
+
+      for (const name in recipes) {
+        recipesLower[name.toLowerCase()] = name;
+      }
+      for (const name in materials) {
+        materialsLower[name.toLowerCase()] = materials[name];
+      }
+
+      allItemNames = Object.keys(recipes).sort();
+      console.log("Available recipes:", allItemNames);
+    }
+
+    function addItem() {
+      const rawInput = document.getElementById('search-box').value.trim();
+      const lookupName = rawInput.toLowerCase();
+      const matchedName = recipesLower[lookupName];
+      const qty = parseInt(document.getElementById('item-qty').value);
+
+      if (!matchedName) {
+        alert(`No recipe found for "${rawInput}". Please check the spelling or data.`);
+        console.warn(`Missing recipe:`, rawInput);
+        return;
+      }
+
+      selectedItems.push({ name: matchedName, quantity: qty });
+      calculateMaterials();
+    }
+
+    function calculateMaterials() {
+      const totals = {};
+
+      function addMaterials(itemName, qtyNeeded) {
+        if (!recipes[itemName]) return;
+        const { quantity: outputQty, materials: mats } = recipes[itemName];
+        if (!mats) {
+          console.warn(`No materials found for:`, itemName);
+          return;
+        }
+        const multiplier = qtyNeeded / outputQty;
+        for (const [mat, qty] of Object.entries(mats)) {
+          if (recipes[mat]) {
+            addMaterials(mat, qty * multiplier);
+          } else {
+            totals[mat] = (totals[mat] || 0) + qty * multiplier;
+          }
+        }
+      }
+
+      selectedItems.forEach(({ name, quantity }) => {
+        addMaterials(name, quantity);
+      });
+
+      const list = document.getElementById('materials-list');
+      list.innerHTML = '';
+      Object.entries(totals).sort().forEach(([mat, qty]) => {
+        const li = document.createElement('li');
+        li.textContent = `${mat} × ${Math.ceil(qty)}`;
+        list.appendChild(li);
+      });
+
+      showSources(totals);
+    }
+
+    function showSources(totals) {
+      const container = document.getElementById('sources-table');
+      const table = document.createElement('table');
+      const header = document.createElement('tr');
+      header.innerHTML = '<th>Material</th><th>Qty</th><th>Method</th><th>Locations</th>';
+      table.appendChild(header);
+
+      Object.entries(totals).sort().forEach(([mat, qty]) => {
+        const sources = materials[mat] || materialsLower[mat.toLowerCase()] || [{ method: 'Unknown', locations: [] }];
+        sources.forEach((src, idx) => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${idx === 0 ? mat : ''}</td>
+            <td>${idx === 0 ? Math.ceil(qty) : ''}</td>
+            <td>${src.method}</td>
+            <td>${src.locations.join(', ')}</td>
+          `;
+          table.appendChild(row);
+        });
+      });
+
+      container.innerHTML = '';
+      container.appendChild(table);
+    }
+
+    loadData();
+  </script>
+</body>
+</html>
