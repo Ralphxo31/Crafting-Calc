@@ -70,7 +70,10 @@
     <div id="sources-table"></div>
   </div>
 
-  
+  <div class="material-search">
+    <h2>Search Material Source</h2>
+    <input type="text" id="material-search-box" placeholder="Search material name..." oninput="searchMaterialSource()">
+    <div id="material-search-result"></div>
   </div>
 
   <script>
@@ -144,19 +147,6 @@
       function addMaterials(itemName, qtyNeeded) {
         if (!recipes[itemName]) return;
         const { quantity: outputQty, materials: mats } = recipes[itemName];
-        if (!mats) return;
-        const multiplier = qtyNeeded / outputQty;
-        const subli = document.createElement('li');
-        subli.innerHTML = `<em>${itemName} (sub-craft)</em>`;
-        document.getElementById('materials-list').appendChild(subli);
-        for (const [mat, qty] of Object.entries(mats)) {
-          if (recipes[mat]) {
-            addMaterials(mat, qty * multiplier);
-          } else {
-            totals[mat] = (totals[mat] || 0) + qty * multiplier;
-          }
-        }
-      } = recipes[itemName];
         if (!mats) return;
         const multiplier = qtyNeeded / outputQty;
         for (const [mat, qty] of Object.entries(mats)) {
