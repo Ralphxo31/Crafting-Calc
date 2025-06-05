@@ -145,24 +145,16 @@
       let totalItems = 0;
       const inputSummary = document.createElement('li');
       inputSummary.innerHTML = `<strong>Selected recipes:</strong> ` + selectedItems.map(i => `${i.name} × ${i.quantity}`).join(', ');
+
+      const subcrafts = [];
       function addMaterials(itemName, qtyNeeded) {
         if (!recipes[itemName]) return;
         const { quantity: outputQty, materials: mats } = recipes[itemName];
         if (!mats) return;
         const multiplier = qtyNeeded / outputQty;
-        const subli = document.createElement('li');
-        subli.innerHTML = `<em>${itemName} (sub-craft)</em>`;
-        document.getElementById('materials-list').appendChild(subli);
-        for (const [mat, qty] of Object.entries(mats)) {
-          if (recipes[mat]) {
-            addMaterials(mat, qty * multiplier);
-          } else {
-            totals[mat] = (totals[mat] || 0) + qty * multiplier;
-          }
+        if (!selectedItems.find(i => i.name === itemName)) {
+          subcrafts.push(`<em>${itemName} (sub-craft)</em>`);
         }
-      } = recipes[itemName];
-        if (!mats) return;
-        const multiplier = qtyNeeded / outputQty;
         for (const [mat, qty] of Object.entries(mats)) {
           if (recipes[mat]) {
             addMaterials(mat, qty * multiplier);
@@ -171,24 +163,51 @@
           }
         }
       }
+
       selectedItems.forEach(({ name, quantity }) => {
         addMaterials(name, quantity);
         totalItems += quantity;
       });
+
       const list = document.getElementById('materials-list');
       list.innerHTML = '';
+
+      const selectedHeader = document.createElement('li');
+      selectedHeader.innerHTML = `<strong>Selected recipes:</strong>`;
+      list.appendChild(selectedHeader);
       list.appendChild(inputSummary);
+
+      if (subcrafts.length) {
+        const subHeader = document.createElement('li');
+        subHeader.innerHTML = `<strong>Sub-crafts to make:</strong>`;
+        list.appendChild(subHeader);
+        subcrafts.forEach(sc => {
+          const subItem = document.createElement('li');
+          subItem.innerHTML = sc;
+          list.appendChild(subItem);
+        });
+      }
+
+      if (subcrafts.length) {
+        const sublist = document.createElement('li');
+        sublist.innerHTML = `<strong>Sub-crafts:</strong> ` + subcrafts.join(', ');
+        list.appendChild(sublist);
+      }
+
       const summary = document.createElement('li');
       const totalUnique = Object.keys(totals).length;
       const totalQty = Object.values(totals).reduce((sum, v) => sum + Math.ceil(v), 0);
       summary.innerHTML = `<strong>Total crafted items selected: ${totalItems} — Raw materials: ${totalUnique} types, ${totalQty} total</strong>`;
       list.appendChild(summary);
+
       Object.entries(totals).sort().forEach(([mat, qty]) => {
         const li = document.createElement('li');
         li.textContent = `${mat} × ${Math.ceil(qty)}`;
         list.appendChild(li);
       });
+
       showSources(totals);
+    }
     }
 
     function showSources(totals) {
@@ -213,15 +232,7 @@
     }
 
     
-      const table = document.createElement('table');
-      table.innerHTML = '<tr><th>Method</th><th>Locations</th></tr>';
-      sources.forEach(src => {
-        const row = document.createElement('tr');
-        row.innerHTML = `<td>${src.method}</td><td>${src.locations.join(', ')}</td>`;
-        table.appendChild(row);
-      });
-      container.appendChild(table);
-    }
+      
 
     loadData();
   </script>
