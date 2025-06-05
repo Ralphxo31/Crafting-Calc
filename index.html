@@ -18,9 +18,11 @@
 
   <div id="crafting-form">
     <div class="item-row">
-      <input type="text" id="search-box" placeholder="Type item name...">
+      <input type="text" id="search-box" list="suggestions" placeholder="Type item name...">
+      <datalist id="suggestions"></datalist>
       <input type="number" id="item-qty" value="1" min="1">
       <button onclick="addItem()">Add</button>
+      <button onclick="clearItems()">Clear</button>
     </div>
   </div>
 
@@ -58,6 +60,12 @@
 
       allItemNames = Object.keys(recipes).sort();
       console.log("Available recipes:", allItemNames);
+      const suggestionList = document.getElementById('suggestions');
+      allItemNames.forEach(name => {
+        const option = document.createElement('option');
+        option.value = name;
+        suggestionList.appendChild(option);
+      });
     }
 
     function addItem() {
@@ -74,6 +82,12 @@
 
       selectedItems.push({ name: matchedName, quantity: qty });
       calculateMaterials();
+    }
+
+    function clearItems() {
+      selectedItems = [];
+      document.getElementById('materials-list').innerHTML = '';
+      document.getElementById('sources-table').innerHTML = '';
     }
 
     function calculateMaterials() {
