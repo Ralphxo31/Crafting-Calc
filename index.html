@@ -45,9 +45,6 @@
     .selected-items li {
       margin-bottom: 4px;
     }
-    .material-search {
-      margin-top: 30px;
-    }
   </style>
 </head>
 <body>
@@ -72,9 +69,6 @@
   <div class="source-info">
     <h2>Material Sources</h2>
     <div id="sources-table"></div>
-  </div>
-
-  
   </div>
 
   <script>
@@ -188,12 +182,6 @@
         });
       }
 
-      if (subcrafts.length) {
-        const sublist = document.createElement('li');
-        sublist.innerHTML = `<strong>Sub-crafts:</strong> ` + subcrafts.join(', ');
-        list.appendChild(sublist);
-      }
-
       const summary = document.createElement('li');
       const totalUnique = Object.keys(totals).length;
       const totalQty = Object.values(totals).reduce((sum, v) => sum + Math.ceil(v), 0);
@@ -207,7 +195,6 @@
       });
 
       showSources(totals);
-    }
     }
 
     function showSources(totals) {
@@ -230,9 +217,6 @@
       container.innerHTML = '';
       container.appendChild(table);
     }
-
-    
-      
 
     loadData();
   </script>
