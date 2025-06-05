@@ -56,7 +56,9 @@
   <div id="crafting-form">
     <div class="item-row">
       <input type="text" id="search-box" list="suggestions" placeholder="Type item name...">
-      <datalist id="suggestions"></datalist>
+      <datalist id="suggestions">
+        <!-- Suggestions will be filled dynamically -->
+      </datalist>
       <input type="number" id="item-qty" value="1" min="1">
       <button onclick="addItem()">Add</button>
       <button onclick="clearItems()">Clear</button>
@@ -90,8 +92,7 @@
       for (const name in recipes) recipesLower[name.toLowerCase()] = name;
       for (const name in materials) materialsLower[name.toLowerCase()] = materials[name];
 
-      const allMaterialNames = Object.keys(materials);
-      allItemNames = [...new Set([...Object.keys(recipes), ...allMaterialNames])].sort();
+      allItemNames = [...new Set([...Object.keys(recipes), ...Object.keys(materials)])].sort();
       const suggestionList = document.getElementById('suggestions');
       allItemNames.forEach(name => {
         const option = document.createElement('option');
@@ -107,16 +108,14 @@
       const qty = parseInt(document.getElementById('item-qty').value);
 
       if (matchedName) {
-        selectedItems.push({ name: matchedName, quantity: qty });
-        updateSelectedItems();
+                updateSelectedItems();
         calculateMaterials();
       } else if (materialsLower[lookupName]) {
         alert(`"${rawInput}" is a raw material. You can find its source in the Material Sources section.`);
-        const dummyTotals = {};
-        dummyTotals[materialsLower[lookupName]] = 1;
-        showSources({ [materialsLower[lookupName]]: 1 });
+        showSources({ [rawInput]: 1 });
       } else {
         alert(`No recipe or material found for "${rawInput}".`);
+      }
       }
     }
       selectedItems.push({ name: matchedName, quantity: qty });
@@ -199,10 +198,7 @@
         });
       }
 
-      if (subcrafts.length) {
-        const sublist = document.createElement('li');
-        sublist.innerHTML = `<strong>Sub-crafts:</strong> ` + subcrafts.join(', ');
-        list.appendChild(sublist);
+      
       }
 
       const summary = document.createElement('li');
