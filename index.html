@@ -54,8 +54,12 @@
   <h1>Fantasy Life I Crafting Calculator</h1>
 
   <div id="crafting-form">
-          <button onclick="clearItems()">Clear</button>
-      
+    <div class="item-row">
+      <input type="text" id="search-box" list="suggestions" placeholder="Type item name...">
+      <datalist id="suggestions"></datalist>
+      <input type="number" id="item-qty" value="1" min="1">
+      <button onclick="addItem()">Add</button>
+      <button onclick="clearItems()">Clear</button>
     </div>
     <ul class="selected-items" id="selected-items-list"></ul>
   </div>
@@ -70,10 +74,7 @@
     <div id="sources-table"></div>
   </div>
 
-  <div class="material-search">
-    <h2>Search Material Source</h2>
-    <input type="text" id="material-search-box" placeholder="Search material name..." oninput="searchMaterialSource()">
-    <div id="material-search-result"></div>
+  
   </div>
 
   <script>
@@ -149,6 +150,19 @@
         const { quantity: outputQty, materials: mats } = recipes[itemName];
         if (!mats) return;
         const multiplier = qtyNeeded / outputQty;
+        const subli = document.createElement('li');
+        subli.innerHTML = `<em>${itemName} (sub-craft)</em>`;
+        document.getElementById('materials-list').appendChild(subli);
+        for (const [mat, qty] of Object.entries(mats)) {
+          if (recipes[mat]) {
+            addMaterials(mat, qty * multiplier);
+          } else {
+            totals[mat] = (totals[mat] || 0) + qty * multiplier;
+          }
+        }
+      } = recipes[itemName];
+        if (!mats) return;
+        const multiplier = qtyNeeded / outputQty;
         for (const [mat, qty] of Object.entries(mats)) {
           if (recipes[mat]) {
             addMaterials(mat, qty * multiplier);
@@ -198,15 +212,7 @@
       container.appendChild(table);
     }
 
-    function searchMaterialSource() {
-      const raw = document.getElementById('material-search-box').value.trim().toLowerCase();
-      const sources = materials[raw] || materialsLower[raw] || null;
-      const container = document.getElementById('material-search-result');
-      container.innerHTML = '';
-      if (!sources) {
-        container.textContent = 'No source information found.';
-        return;
-      }
+    
       const table = document.createElement('table');
       table.innerHTML = '<tr><th>Method</th><th>Locations</th></tr>';
       sources.forEach(src => {
