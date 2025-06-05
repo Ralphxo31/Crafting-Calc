@@ -5,16 +5,49 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Crafting Calculator</title>
   <style>
-    body { font-family: sans-serif; max-width: 900px; margin: auto; padding: 20px; }
-    .item-row { margin-bottom: 10px; position: relative; }
-    .results, .source-info { margin-top: 20px; }
-    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
-    th, td { border: 1px solid #ccc; padding: 8px; }
-    input[type="text"] { width: 300px; padding: 5px; margin-right: 10px; }
-    button { padding: 6px 12px; cursor: pointer; margin-right: 5px; }
-    .selected-items { margin-top: 10px; }
-    .selected-items li { margin-bottom: 4px; }
-    .material-search { margin-top: 30px; }
+    body {
+      font-family: sans-serif;
+      font-size: 13px;
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+    }
+    .item-row {
+      margin-bottom: 10px;
+      position: relative;
+    }
+    .results, .source-info {
+      margin-top: 20px;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 10px;
+      font-size: 12px;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 6px;
+    }
+    input[type="text"] {
+      width: 300px;
+      padding: 4px;
+      margin-right: 10px;
+    }
+    button {
+      padding: 4px 10px;
+      cursor: pointer;
+      margin-right: 5px;
+    }
+    .selected-items {
+      margin-top: 10px;
+    }
+    .selected-items li {
+      margin-bottom: 4px;
+    }
+    .material-search {
+      margin-top: 30px;
+    }
   </style>
 </head>
 <body>
@@ -26,7 +59,7 @@
       <datalist id="suggestions"></datalist>
       <input type="number" id="item-qty" value="1" min="1">
       <button onclick="addItem()">Add</button>
-      <button onclick="clearItems()">Clear</button>
+      
     </div>
     <ul class="selected-items" id="selected-items-list"></ul>
   </div>
@@ -113,6 +146,8 @@
     function calculateMaterials() {
       const totals = {};
       let totalItems = 0;
+      const inputSummary = document.createElement('li');
+      inputSummary.innerHTML = `<strong>Selected recipes:</strong> ` + selectedItems.map(i => `${i.name} × ${i.quantity}`).join(', ');
       function addMaterials(itemName, qtyNeeded) {
         if (!recipes[itemName]) return;
         const { quantity: outputQty, materials: mats } = recipes[itemName];
@@ -132,8 +167,11 @@
       });
       const list = document.getElementById('materials-list');
       list.innerHTML = '';
+      list.appendChild(inputSummary);
       const summary = document.createElement('li');
-      summary.innerHTML = `<strong>Total crafted items selected: ${totalItems}</strong>`;
+      const totalUnique = Object.keys(totals).length;
+      const totalQty = Object.values(totals).reduce((sum, v) => sum + Math.ceil(v), 0);
+      summary.innerHTML = `<strong>Total crafted items selected: ${totalItems} — Raw materials: ${totalUnique} types, ${totalQty} total</strong>`;
       list.appendChild(summary);
       Object.entries(totals).sort().forEach(([mat, qty]) => {
         const li = document.createElement('li');
