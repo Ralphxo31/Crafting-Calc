@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Crafting Calculator</title>
+  <title>Fantasy Life I Calculator</title>
   <style>
     body {
       font-family: sans-serif;
@@ -51,7 +51,7 @@
   </style>
 </head>
 <body>
-  <h1>Fantasy Life I Crafting Calculator</h1>
+  <h1>Fantasy Life I Calculator</h1>
 
   <div id="crafting-form">
     <div class="item-row">
@@ -105,10 +105,20 @@
       const lookupName = rawInput.toLowerCase();
       const matchedName = recipesLower[lookupName];
       const qty = parseInt(document.getElementById('item-qty').value);
-      if (!matchedName) {
-        alert(`No recipe found for "${rawInput}".`);
-        return;
+
+      if (matchedName) {
+        selectedItems.push({ name: matchedName, quantity: qty });
+        updateSelectedItems();
+        calculateMaterials();
+      } else if (materialsLower[lookupName]) {
+        alert(`"${rawInput}" is a raw material. You can find its source in the Material Sources section.`);
+        const dummyTotals = {};
+        dummyTotals[materialsLower[lookupName]] = 1;
+        showSources({ [materialsLower[lookupName]]: 1 });
+      } else {
+        alert(`No recipe or material found for "${rawInput}".`);
       }
+    }
       selectedItems.push({ name: matchedName, quantity: qty });
       updateSelectedItems();
       calculateMaterials();
