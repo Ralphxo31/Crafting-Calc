@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fantasy Life I Calculator</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Crafting Calculator</title>
   <style>
     body {
       font-family: sans-serif;
@@ -45,21 +45,16 @@
     .selected-items li {
       margin-bottom: 4px;
     }
-    .material-search {
-      margin-top: 30px;
-    }
   </style>
 </head>
 <body>
-  <h1>Fantasy Life I Calculator</h1>
+  <h1>Fantasy Life I Crafting Calculator</h1>
 
   <div id="crafting-form">
     <div class="item-row">
-      <input type="text" id="search-box" list="suggestions" placeholder="Type item name...">
-      <datalist id="suggestions">
-        <!-- Suggestions will be filled dynamically -->
-      </datalist>
-      <input type="number" id="item-qty" value="1" min="1">
+      <input type="text" id="search-box" list="suggestions" placeholder="Type item name..." />
+      <datalist id="suggestions"></datalist>
+      <input type="number" id="item-qty" value="1" min="1" />
       <button onclick="addItem()">Add</button>
       <button onclick="clearItems()">Clear</button>
     </div>
@@ -76,9 +71,6 @@
     <div id="sources-table"></div>
   </div>
 
-  
-  </div>
-
   <script>
     let recipes = {}, recipesLower = {}, materials = {}, materialsLower = {};
     let selectedItems = [], allItemNames = [];
@@ -92,7 +84,7 @@
       for (const name in recipes) recipesLower[name.toLowerCase()] = name;
       for (const name in materials) materialsLower[name.toLowerCase()] = materials[name];
 
-      allItemNames = [...new Set([...Object.keys(recipes), ...Object.keys(materials)])].sort();
+      allItemNames = Object.keys(recipes).sort();
       const suggestionList = document.getElementById('suggestions');
       allItemNames.forEach(name => {
         const option = document.createElement('option');
@@ -106,18 +98,10 @@
       const lookupName = rawInput.toLowerCase();
       const matchedName = recipesLower[lookupName];
       const qty = parseInt(document.getElementById('item-qty').value);
-
-      if (matchedName) {
-                updateSelectedItems();
-        calculateMaterials();
-      } else if (materialsLower[lookupName]) {
-        alert(`"${rawInput}" is a raw material. You can find its source in the Material Sources section.`);
-        showSources({ [rawInput]: 1 });
-      } else {
-        alert(`No recipe or material found for "${rawInput}".`);
+      if (!matchedName) {
+        alert(`No recipe found for "${rawInput}".`);
+        return;
       }
-      }
-    }
       selectedItems.push({ name: matchedName, quantity: qty });
       updateSelectedItems();
       calculateMaterials();
@@ -198,9 +182,6 @@
         });
       }
 
-      
-      }
-
       const summary = document.createElement('li');
       const totalUnique = Object.keys(totals).length;
       const totalQty = Object.values(totals).reduce((sum, v) => sum + Math.ceil(v), 0);
@@ -214,7 +195,6 @@
       });
 
       showSources(totals);
-    }
     }
 
     function showSources(totals) {
@@ -237,9 +217,6 @@
       container.innerHTML = '';
       container.appendChild(table);
     }
-
-    
-      
 
     loadData();
   </script>
